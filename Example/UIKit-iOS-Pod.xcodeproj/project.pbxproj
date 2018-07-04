@@ -28,9 +28,9 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		62E7B7D9CF2B638E74A54C76 /* Pods-UIKit-iOS-Pod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UIKit-iOS-Pod_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-UIKit-iOS-Pod_Tests/Pods-UIKit-iOS-Pod_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6A01788029777EED3C0E1D7C /* Pods-UIKit-iOS-Pod_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UIKit-iOS-Pod_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-UIKit-iOS-Pod_Tests/Pods-UIKit-iOS-Pod_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		ACD36C8388265BE50CDA778E /* UIKit-iOS-Pod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = "UIKit-iOS-Pod.podspec"; path = "../UIKit-iOS-Pod.podspec"; sourceTree = "<group>"; };
-		C0816FDA9807307E1FD8CB36 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		F7C1E64B7A5D11585A0203F7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		ACD36C8388265BE50CDA778E /* UIKit-iOS-Pod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "UIKit-iOS-Pod.podspec"; path = "../UIKit-iOS-Pod.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C0816FDA9807307E1FD8CB36 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F7C1E64B7A5D11585A0203F7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

@@ -13,17 +13,22 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-UIKit-iOS-Pod is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+To install, simply add the following line to your Podfile:
 
 ```ruby
-pod 'UIKit-iOS-Pod'
+pod 'UIKit-iOS-Pod', :git => 'https://github.com/Jibestream/UIKit-iOS-Pod.git'
+```
+
+For installing the first time run:
+```ruby
+pod install
+```
+
+To get the latest version of the pod run:
+```ruby
+pod update
 ```
 
 ## Author
 
-louieyuen, lyuen@jibestream.com
-
-## License
-
-UIKit-iOS-Pod is available under the MIT license. See the LICENSE file for more info.
+Louie, lyuen@jibestream.com
