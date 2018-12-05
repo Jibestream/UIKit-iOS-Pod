@@ -67,6 +67,7 @@
  *      @"position": NSArray<NSNumber *> - [0~1, 0~1],
  *      @"vertical": NSNumber with boolean, defaults to true
  *      @"maxHeight": NSNumber
+ *      @"padding": NSArray - [top, right, bottom, left] in px
  *  }
  */
 - (void)renderFloorSelectorWithOptions:(nullable NSDictionary *)options;
@@ -124,6 +125,7 @@
  *      @"icon": UIView,
  *      @"rotatedIcon": UIView,
  *      @"resetRotationOnTap": NSNumber with boolean, defaults to true
+ *      @"padding": NSArray - [top, right, bottom, left] in px
  *  }
  */
 - (void)renderCompassWithOptions:(nullable NSDictionary *)options;
