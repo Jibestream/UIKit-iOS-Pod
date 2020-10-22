@@ -16,17 +16,22 @@
  */
 @protocol PopupDelegate <NSObject>
 
+@optional
 /**
  *  Callback delegate for tapping on the popup button
  */
 - (void)actionButtonCallback:(nonnull Popup *)popup;
+/**
+ *  Callback delegate for tapping on the close button
+ */
+- (void)closeButtonCallback:(nonnull Popup *)popup;
 
 @end
 
 /**
  *  The Popup object
  */
-@interface Popup : UITableViewCell
+@interface Popup : UIView
 
 /**
  *  The Popup's options

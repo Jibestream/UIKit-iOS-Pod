@@ -91,7 +91,9 @@
  *      @"actionButtonFont": UIFont,
  *      @"actionButtonStyle": JMapStyle,
  *      @"actionButtonFontColor": UIColor,
- *      @"popupStyle": JMapStyle
+ *      @"popupStyle": JMapStyle,
+ *      @"scaleWithMap": NSNumber with boolean, defaults to true,
+ *      @"rotateWithMap": NSNumber with boolean, defaults to false
  *  }
  *
  *  @return The Popup instance created
