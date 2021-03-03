@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'UIKit-iOS-Pod'
-s.version='1.1.3'
+s.version='1.1.4'
     s.summary          = 'The UIKit-iOS-Pod for the Jibestream iOS SDK.'
     
     s.description      = 'This CocoaPod provides the release version of the UIKit for the Jibestream iOS SDK.'
