@@ -22,21 +22,17 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		tK7XOHMuv0XaTwgPkAPyysVvgiA=
+		qEHv+fsmy84tFefw5gPIngubtPc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		JrZF9Lv+SEZ0ryHNf2rTdpn74kw=
+		6jWs/CxFM6tga+dUyvObERrUA4Q=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/ContainerView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4fiEgs2A/QiZzSz63k872wtuy6Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			xtpAR6wfGcTNEPRSqssZJr/FpICNPnHKthyvBYzbjqc=
@@ -44,10 +40,6 @@
 		</dict>
 		<key>Headers/JMapUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ui0cCbXUE39xFjBpveBx0RgRvxU=
-			</data>
 			<key>hash2</key>
 			<data>
 			t2n1uQE/5OBFXiOW5e6uR78dHe0+aGTF3zwGLEH59A8=
@@ -55,10 +47,6 @@
 		</dict>
 		<key>Headers/JMapUIKit.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			e8pCPN5mOA+EBEj1KXGhr9DV/ZY=
-			</data>
 			<key>hash2</key>
 			<data>
 			xTdXsd7vDe5lh9fmhXR+IYH8o3kZBWV4Nm5rDGBE3Ic=
@@ -66,10 +54,6 @@
 		</dict>
 		<key>Headers/Popup.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LfE4pbn2VA4OX5lFFPW1GtncAlM=
-			</data>
 			<key>hash2</key>
 			<data>
 			N6QyA4JG76BePLt5bnXuglmvTp3tBRKbfX+Yzd4BEC0=
@@ -77,13 +61,9 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JrZF9Lv+SEZ0ryHNf2rTdpn74kw=
-			</data>
 			<key>hash2</key>
 			<data>
-			+ZuhGlWcyE8ssvjPMu4UNTY48AAJkW+2Y4SJSIN24wA=
+			Y1cCy2FbG7ml+zVUn9+cIMYQhAK4qa7VIqNlN5V5bts=
 			</data>
 		</dict>
 	</dict>
