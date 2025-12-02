@@ -12,6 +12,7 @@ s.version='1.2.1'
     s.ios.deployment_target = '10.0'
     s.dependency "JMapiOSSDK"
     s.platform = :ios, '9.0'
-    s.vendored_frameworks = 'UIKit-iOS-Pod/Frameworks/*.xcframework'
+    s.vendored_frameworks = 'UIKit-iOS-Pod/Frameworks/JMapUIKit.xcframework'
+    s.preserve_paths = 'UIKit-iOS-Pod/Frameworks/JMapUIKit.xcframework'
     
 end
