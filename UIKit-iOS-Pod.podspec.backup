@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'UIKit-iOS-Pod'
-s.version='1.2.2'
+s.version='1.2.1'
     s.summary          = 'The UIKit-iOS-Pod for the Jibestream iOS SDK.'
     
     s.description      = 'This CocoaPod provides the release version of the UIKit for the Jibestream iOS SDK.'
@@ -12,7 +12,6 @@ s.version='1.2.2'
     s.ios.deployment_target = '10.0'
     s.dependency "JMapiOSSDK"
     s.platform = :ios, '9.0'
-    s.vendored_frameworks = 'UIKit-iOS-Pod/Frameworks/JMapUIKit.xcframework'
-    s.preserve_paths = 'UIKit-iOS-Pod/Frameworks/JMapUIKit.xcframework'
+    s.vendored_frameworks = 'UIKit-iOS-Pod/Frameworks/*.xcframework'
     
 end
