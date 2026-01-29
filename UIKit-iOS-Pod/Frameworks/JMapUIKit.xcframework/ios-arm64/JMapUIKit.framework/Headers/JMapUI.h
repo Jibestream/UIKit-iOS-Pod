@@ -126,6 +126,8 @@
  *      @"height": NSNumber with int, defaults to 50,
  *      @"icon": UIView,
  *      @"rotatedIcon": UIView,
+ *      @"backgroundView": UIView - non-rotating background behind compass (same size as width/height),
+ *      @"innerPadding": NSNumber - inset in pts for icon inside background (e.g. 4),
  *      @"resetRotationOnTap": NSNumber with boolean, defaults to true
  *      @"padding": NSArray - [top, right, bottom, left] in px
  *  }
