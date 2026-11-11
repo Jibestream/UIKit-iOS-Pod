@@ -9,7 +9,7 @@ s.version='2.0.0'
     s.author           = { 'louie' => 'lyuen@jibestream.com' }
     s.source           = { :git => 'https://github.com/Jibestream/UIKit-iOS-Pod', :tag => "#{s.version}" }
     
-    s.dependency "JMapiOSSDK"
+    s.dependency "JMapiOSSDK", "~> 6.0"
     s.platform = :ios, '15.0'
     s.vendored_frameworks = 'UIKit-iOS-Pod/Frameworks/JMapUIKit.xcframework'
     s.preserve_paths = 'UIKit-iOS-Pod/Frameworks/JMapUIKit.xcframework'
